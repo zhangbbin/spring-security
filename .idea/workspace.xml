@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d24f5d7-fe08-4a0b-bf97-d88d4934a865" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="mavenHome" value="D:\Maven\apache-maven-3.8.2-bin\apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.8.2-bin\apache-maven-3.8.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2LJrC7zShxEgtHduI0GTHd3O6ZU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-security-integral/src/main/java/com/bin/domain" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\repository\IDEA\spring-security\spring-security-integral\src\main\java\com\bin\domain" />
+      <recent name="D:\repository\IDEA\spring-security\spring-security-integral\src\main\java\com\bin\utils" />
+      <recent name="D:\repository\IDEA\spring-security\spring-security-integral\src\main\java\com\bin\config" />
+      <recent name="D:\repository\IDEA\spring-security\spring-security-04password\src\main\java\com\bin\entity" />
+      <recent name="D:\repository\IDEA\spring-security\spring-security-03split\src\main\java\com\bin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bin.config" />
+      <recent name="com.bin.dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IntegralApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMapper.testBcrypt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-integral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bin" />
+      <option name="MAIN_CLASS_NAME" value="com.bin.TestMapper" />
+      <option name="METHOD_NAME" value="testBcrypt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMapper.testMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-integral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bin" />
+      <option name="MAIN_CLASS_NAME" value="com.bin.TestMapper" />
+      <option name="METHOD_NAME" value="testMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jwt-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bin" />
+      <option name="MAIN_CLASS_NAME" value="com.bin.Test" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegralApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-integral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bin.IntegralApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JWT01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jwt-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bin.JWT01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurity02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-security-02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bin.SpringSecurity02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.IntegralApplication" />
+        <item itemvalue="JUnit.TestMapper.testBcrypt" />
+        <item itemvalue="JUnit.TestMapper.testMapper" />
+        <item itemvalue="Spring Boot.JWT01Application" />
+        <item itemvalue="JUnit.Test.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d24f5d7-fe08-4a0b-bf97-d88d4934a865" name="Default Changelist" comment="" />
+      <created>1675599897146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675599897146</updated>
+      <workItem from="1675599898365" duration="1892000" />
+      <workItem from="1675601860279" duration="943000" />
+      <workItem from="1675602850450" duration="21000" />
+      <workItem from="1675602896318" duration="10000" />
+      <workItem from="1675606029882" duration="33000" />
+      <workItem from="1675606080503" duration="3174000" />
+      <workItem from="1675644466241" duration="1794000" />
+      <workItem from="1675668294387" duration="593000" />
+      <workItem from="1675687381847" duration="1187000" />
+      <workItem from="1675729745042" duration="599000" />
+      <workItem from="1675768789123" duration="1627000" />
+      <workItem from="1675770490678" duration="4882000" />
+      <workItem from="1675776900087" duration="543000" />
+      <workItem from="1675778064058" duration="6415000" />
+      <workItem from="1675785209835" duration="57000" />
+      <workItem from="1675818093429" duration="5479000" />
+      <workItem from="1675830877897" duration="3094000" />
+      <workItem from="1675840055241" duration="11368000" />
+      <workItem from="1675855602007" duration="102000" />
+      <workItem from="1675855729117" duration="864000" />
+      <workItem from="1675856651931" duration="6169000" />
+      <workItem from="1675864623347" duration="2998000" />
+      <workItem from="1675903122710" duration="5704000" />
+      <workItem from="1675942428023" duration="466000" />
+      <workItem from="1675942915761" duration="96000" />
+      <workItem from="1675943135732" duration="123000" />
+      <workItem from="1675943272002" duration="248000" />
+      <workItem from="1675943535512" duration="4814000" />
+      <workItem from="1675990783930" duration="5093000" />
+      <workItem from="1675997825106" duration="10819000" />
+      <workItem from="1676028247536" duration="1884000" />
+      <workItem from="1676034047677" duration="4192000" />
+      <workItem from="1676039369676" duration="3003000" />
+      <workItem from="1676043772589" duration="4338000" />
+      <workItem from="1676078168160" duration="473000" />
+      <workItem from="1676079078353" duration="11944000" />
+      <workItem from="1676098490812" duration="26000" />
+      <workItem from="1676164409159" duration="481000" />
+      <workItem from="1676165087649" duration="4089000" />
+      <workItem from="1676179871729" duration="669000" />
+      <workItem from="1676191610665" duration="7768000" />
+      <workItem from="1676250373338" duration="3844000" />
+      <workItem from="1676265237389" duration="125000" />
+      <workItem from="1676336335772" duration="4731000" />
+      <workItem from="1676354428544" duration="1223000" />
+      <workItem from="1676381321167" duration="43000" />
+      <workItem from="1676810546137" duration="5075000" />
+      <workItem from="1676869467883" duration="133000" />
+      <workItem from="1676894946937" duration="5088000" />
+      <workItem from="1676903807881" duration="864000" />
+      <workItem from="1676904993588" duration="5849000" />
+      <workItem from="1676941296998" duration="432000" />
+      <workItem from="1676948434703" duration="9581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

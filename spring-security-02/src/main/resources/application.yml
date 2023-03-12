@@ -1,0 +1,16 @@
+server:
+  port: 8081
+spring:
+  thymeleaf:
+    # 关闭 thymeleaf缓存
+    cache: false
+    # 配置数据源
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/security?serverTimezone=UTC
+    username: root
+    password: zhangbin
+mybatis-plus:
+  mapper-locations: classpath:com/bin/mapper/*.xml
+  type-aliases-package: com.bin.entity

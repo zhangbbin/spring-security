@@ -1,0 +1,18 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bin.dao.UserMapper">
+    <select id="loadUserByUsername" resultType="com.bin.entity.User">
+        select *
+        from user
+        where username = #{username};
+    </select>
+
+    <select id="getUserRoleByUid" resultType="com.bin.entity.Role">
+        select r.*
+        from role r,
+             user_role ur
+        where ur.uid = #{uid}
+          and ur.rid = r.id
+    </select>
+</mapper>
